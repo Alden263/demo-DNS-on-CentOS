@@ -54,7 +54,7 @@ Repository này chứa tài liệu hướng dẫn cài đặt và cấu hình **
 - [CentOS7 DNS Server.pdf](./CentOS7%20DNS%20Server.pdf)
 
 ## Video minh họa
-[Hướng dẫn DNS Server trên CentOS 7](https://youtu.be/-o-4PqG-tnw)
+- [Hướng dẫn DNS Server trên CentOS 7](https://youtu.be/-o-4PqG-tnw)
 
 ---
-👨‍💻 Contributors: [mujin0422](https://github.com/mujin0422), [Alden263](https://github.com/Alden263)
+Contributors: [mujin0422](https://github.com/mujin0422), [Alden263](https://github.com/Alden263)
