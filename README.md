@@ -5,7 +5,7 @@ Repository này chứa tài liệu hướng dẫn cài đặt và cấu hình **
 - Secondary (Backup) DNS Server
 - Thiết lập Forwarder giữa các DNS Server
 
-## 📘 Nội dung
+## Nội dung
 
 ### 1. Cài đặt & Cấu hình DNS Server
 - Cài đặt gói BIND và bind-utils:
@@ -42,18 +42,18 @@ Repository này chứa tài liệu hướng dẫn cài đặt và cấu hình **
   systemctl restart named
   ```
 
-## 🛠️ Kiểm tra hoạt động
-- Sử dụng các lệnh:
+## Kiểm tra hoạt động
+- Sử dụng một trong các lệnh:
   ```bash
   nslookup
   dig
   host
   ```
 
-## 📂 Tài liệu kèm theo
+## Tài liệu kèm theo
 - [CentOS7 DNS Server.pdf](./CentOS7%20DNS%20Server.pdf)
 
-## 🎥 Video minh họa
+## Video minh họa
 [Hướng dẫn DNS Server trên CentOS 7](https://youtu.be/-o-4PqG-tnw)
 
 ---
